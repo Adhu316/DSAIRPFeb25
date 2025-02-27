@@ -1,5 +1,6 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
 ## Artificial Intelligence
+###Geoffrey Hintonv - God father of ai
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 ### Perceptron
