@@ -1,3 +1,6 @@
+# Walkthroughs
+1. [Google Colab](https://colab.research.google.com/)
+
 # Installations
 
 1. [Python download link](https://www.python.org/downloads/)
@@ -43,3 +46,39 @@ jupyter notebook
 ## Boolean
 
 ## None Type
+
+# Operators in Python
+
+## Arithmetic Operators
+### Addition
+### Subtraction
+### Multiplication
+### Division
+### Modulous
+### Exponent
+### Floor Division
+
+## Assignment Operator
+
+## Comparison Operator
+- \>
+- <
+- \>=
+- <=
+- ==
+- !=
+
+## Logical Operators
+
+### AND
+### OR
+### NOT
+
+
+## Membership Operator
+### IN
+### NOT IN
+
+## Identity Operator
+### is
+### is not
