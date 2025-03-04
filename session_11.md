@@ -45,7 +45,7 @@ $Z=\dfrac{\bar{x}-\mu}{\left(\frac{\sigma}{\sqrt{n}}\right)} \nonumber$
 - $n$ = sample size
 
 5. Find p-value using [Z-Table](https://math.arizona.edu/~rsims/ma464/standardnormaltable.pdf) and Z-test statistic computed
-6. if Z-test Statistic<p-value, then we fail to reject null Hypothesis
+6. if p-value < $\alpha$, then we fail to reject null Hypothesis
 7. There are one-tailed and two-tailed tests
 
 ## Z-test Practice Problem
@@ -110,6 +110,10 @@ The steps are as follows
 
 5. Find the critical t-value from [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf) using significance ($\alpha$) level
 6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
+
+Sample Data 
+- Brand A: 49.5, 50.1, 49.8,50.3, 50
+- Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
 
 ### Paired Sample T-test
 - Compares means from the same group at different times (before/after)
