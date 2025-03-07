@@ -26,7 +26,7 @@
     - why weights of general forms normal to the plane
 
 - Operations on vectors
-    - Projection of a vector onto another
+    - Projection of a vector $a$ into vector $b$ 
     - $d = \frac{a \cdot b}{\Vert b \Vert} = \frac{\Vert a \Vert \Vert b \Vert \cos \theta}{\Vert b \Vert} = \Vert a \Vert \cos \theta$
 
 - Matrices as Transformation on vectors
@@ -69,7 +69,7 @@
 6. Given the standard basis vectors  
    $e_1 = (1,0,0), \quad e_2 = (0,1,0), \quad e_3 = (0,0,1)$
    
-   express $(4, -2, 7) $ as a linear combination of $e_1, e_2, e_3$.
+   express $(4, -2, 7)$ as a linear combination of $e_1, e_2, e_3$.
 
 ---
 
@@ -117,19 +117,15 @@
 ---
 
 ## 8. Matrix Transformations
-17. If  $A = \begin{bmatrix} 2 & 1 \\ 0 & 3 \end{bmatrix}, \quad 
-    B = \begin{bmatrix} 1 & 4 \\ 2 & 0 \end{bmatrix}$
-    
-    Compute $AB$ and $BA$. Are they equal?
+17. If  $$A = \begin{bmatrix} 2 & 1\\ 0 & 3 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & 4 \\ 2 & 0 \end{bmatrix}$$
+
+Compute $AB$ and $BA$. Are they equal?
 
 18. Find the inverse of  
-    $A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$
-    
+    $$A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$$ 
     if it exists.
 
 19. Compute the eigenvalues and eigenvectors of  
-    $A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}$.
-
-
+    $$A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}$$
 
 
