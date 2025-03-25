@@ -1,0 +1,6 @@
+# directories and logs
+data_dir: /data/
+log_dir: /logs/
+log_filename: log.csv
+sampling_rate: "8000"
+threshold: 0.9
