@@ -30,8 +30,8 @@
     - In a relational database all of our data is stored across multiple tables. For example,
 
     - movie_id, movie_name, year, actor_id, actor_name, gender
-        1             Spiderman, 2009, aid_1, name, Male
-        1             Spiderman, 2009, aid_2, name, Male
+        1             Spiderman, 2009, aid_1, name_1, Male
+        1             Spiderman, 2009, aid_2, name_2, Male
 
     - Here only some part of data changes other part we are simply copying which is inefficient
 
@@ -132,6 +132,10 @@ SHOW tables;
     - DESCRIBE <table_name>;
         - shows the schema of a particular table
         - DESCRIBE actors;
+
+
+https://www.sqlzoo.net/
+
 
 - SELECT
     - Suppose if i want to list all the movies, i can use select clause 
