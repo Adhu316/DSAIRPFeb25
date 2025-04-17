@@ -4,6 +4,9 @@
 ### Data Science is the process of extracting knowledge from data using techniques from statistics, ML, and domain knowledge.
 
 ## Artificial Intelligence
+### Focuses on enabling machines to simulate human behavior like problem-solving, understanding language, and recognizing images.
+### Applications include natural language processing, robotics, computer vision, and autonomous vehicles.
+
 ### Geoffrey Hintonv - God father of ai
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
