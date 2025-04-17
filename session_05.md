@@ -1,4 +1,8 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
+### Artificial Intelligence is a broad field aimed at building smart machines capable of performing tasks that typically require human intelligence.
+### Machine Learning is a subset of AI that uses algorithms to learn patterns from data and make decisions or predictions.
+### Data Science is the process of extracting knowledge from data using techniques from statistics, ML, and domain knowledge.
+
 ## Artificial Intelligence
 ### Geoffrey Hintonv - God father of ai
 ## Artificial General Intelligence
