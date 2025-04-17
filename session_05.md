@@ -8,6 +8,10 @@
 ### Applications include natural language processing, robotics, computer vision, and autonomous vehicles.
 
 ### Geoffrey Hintonv - God father of ai
+#### Pioneered deep learning and neural networks.
+#### Known for work on backpropagation and convolutional neural networks.
+#### Played a significant role in the development of modern AI.
+
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 ### Perceptron
